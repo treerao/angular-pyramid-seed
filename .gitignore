@@ -1,0 +1,17 @@
+*.*~
+\#*
+config.ini
+
+# Pyramid
+data
+*.pem
+
+# Python
+*.py[co]
+*.egg
+*.egg-info
+dist
+build
+eggs
+
+
